@@ -721,7 +721,7 @@
                     <div class="group-name">NEON DREAMS</div>
                     <div class="group-agency">🏢 Cube Entertainment</div>
                     <div class="group-genre">Genre : K-Pop, Synth-Pop, Future Bass</div>
-                    <p class="group-desc">Groupe mixte innovant qui repousse les limites du K-Pop avec des concepts futuristes et des collaborations internationales.</p>
+                    <p class="group-desc">Groupe mixte innovant qui repousse les limites de K-Pop avec des concepts futuristes et des collaborations internationales.</p>
                     <div class="group-members">
                         <span class="member-tag">Soyeon</span>
                         <span class="member-tag">Minnie</span>
